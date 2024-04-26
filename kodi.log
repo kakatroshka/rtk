@@ -1,0 +1,318 @@
+﻿2024-04-26 17:43:30.482 T:5974     info <general>: -----------------------------------------------------------------------
+2024-04-26 17:43:30.483 T:5974     info <general>: Starting Kodi (21.0-ALPHA1 (20.90.101) Git:20230410-43388ac-dirty). Platform: Linux ARM 32-bit
+2024-04-26 17:43:30.483 T:5974     info <general>: Using Release Kodi x32
+2024-04-26 17:43:30.483 T:5974     info <general>: Kodi compiled 2023-06-17 by GCC 12.2.0 for Linux ARM 32-bit version 3.10.19 (199187)
+2024-04-26 17:43:30.525 T:5974     info <general>: Running on rtd289x with n/a(none), kernel: Linux ARM 32-bit version 4.4.3-208.drd4tv.3
+2024-04-26 17:43:30.525 T:5974     info <general>: FFmpeg version/source: 5.1.2-Kodi
+2024-04-26 17:43:30.525 T:5974     info <general>: Host CPU: ARMv7 Processor rev 4 (v7l), 4 cores available
+2024-04-26 17:43:30.525 T:5974     info <general>: ARM Features: Neon enabled
+2024-04-26 17:43:30.525 T:5974     info <general>: special://xbmc/ is mapped to: /media/developer/apps/usr/palm/applications/org.xbmc.kodi
+2024-04-26 17:43:30.525 T:5974     info <general>: special://xbmcbin/ is mapped to: /media/developer/apps/usr/palm/applications/org.xbmc.kodi
+2024-04-26 17:43:30.525 T:5974     info <general>: special://xbmcbinaddons/ is mapped to: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/addons
+2024-04-26 17:43:30.525 T:5974     info <general>: special://masterprofile/ is mapped to: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata
+2024-04-26 17:43:30.525 T:5974     info <general>: special://envhome/ is mapped to: /media/developer/apps/usr/palm/applications/org.xbmc.kodi
+2024-04-26 17:43:30.525 T:5974     info <general>: special://home/ is mapped to: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi
+2024-04-26 17:43:30.525 T:5974     info <general>: special://temp/ is mapped to: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/temp
+2024-04-26 17:43:30.525 T:5974     info <general>: special://logpath/ is mapped to: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/temp
+2024-04-26 17:43:30.525 T:5974     info <general>: Webserver extra whitelist paths: 
+2024-04-26 17:43:30.525 T:5974     info <general>: The executable running is: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/kodi-webos
+2024-04-26 17:43:30.525 T:5974     info <general>: Local hostname: LGwebOSTV
+2024-04-26 17:43:30.525 T:5974     info <general>: Log File is located: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/temp/kodi.log
+2024-04-26 17:43:30.525 T:5974     info <general>: -----------------------------------------------------------------------
+2024-04-26 17:43:30.529 T:5974     info <general>: loading settings
+2024-04-26 17:43:30.532 T:5974     info <general>: special://profile/ is mapped to: special://masterprofile/
+2024-04-26 17:43:30.575 T:5974     info <general>: No settings file to load (special://xbmc/system/advancedsettings.xml)
+2024-04-26 17:43:30.576 T:5974     info <general>: No settings file to load (special://masterprofile/advancedsettings.xml)
+2024-04-26 17:43:30.576 T:5974     info <general>: Default Video Player: VideoPlayer
+2024-04-26 17:43:30.576 T:5974     info <general>: Default Audio Player: paplayer
+2024-04-26 17:43:30.576 T:5974     info <general>: Disabled debug logging due to GUI setting. Level 0.
+2024-04-26 17:43:30.576 T:5974     info <general>: Log level changed to "info"
+2024-04-26 17:43:30.581 T:5974     info <general>: creating subdirectories
+2024-04-26 17:43:30.581 T:5974     info <general>: userdata folder: special://masterprofile/
+2024-04-26 17:43:30.581 T:5974     info <general>: recording folder: 
+2024-04-26 17:43:30.581 T:5974     info <general>: screenshots folder: 
+2024-04-26 17:43:30.594 T:5974     info <general>: Running database version Addons33
+2024-04-26 17:43:30.783 T:5974     info <general>: CAddonMgr::FindAddons: audioencoder.kodi.builtin.aac v1.0.2 installed
+2024-04-26 17:43:30.783 T:5974     info <general>: CAddonMgr::FindAddons: audioencoder.kodi.builtin.wma v1.0.2 installed
+2024-04-26 17:43:30.784 T:5974     info <general>: CAddonMgr::FindAddons: game.controller.default v1.0.41 installed
+2024-04-26 17:43:30.784 T:5974     info <general>: CAddonMgr::FindAddons: game.controller.keyboard v1.1.33 installed
+2024-04-26 17:43:30.784 T:5974     info <general>: CAddonMgr::FindAddons: game.controller.mouse v1.0.26 installed
+2024-04-26 17:43:30.784 T:5974     info <general>: CAddonMgr::FindAddons: game.controller.snes v1.0.39 installed
+2024-04-26 17:43:30.785 T:5974     info <general>: CAddonMgr::FindAddons: inputstream.adaptive v21.1.2 installed
+2024-04-26 17:43:30.785 T:5974     info <general>: CAddonMgr::FindAddons: inputstream.ffmpegdirect v21.1.0 installed
+2024-04-26 17:43:30.785 T:5974     info <general>: CAddonMgr::FindAddons: inputstream.rtmp v21.0.1 installed
+2024-04-26 17:43:30.785 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.global.audioengine v1.1.1 installed
+2024-04-26 17:43:30.786 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.global.filesystem v1.1.8 installed
+2024-04-26 17:43:30.786 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.global.general v1.0.5 installed
+2024-04-26 17:43:30.786 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.global.gui v5.15.0 installed
+2024-04-26 17:43:30.786 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.global.main v2.0.2 installed
+2024-04-26 17:43:30.786 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.global.network v1.0.4 installed
+2024-04-26 17:43:30.787 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.global.tools v1.0.4 installed
+2024-04-26 17:43:30.787 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.audiodecoder v4.0.0 installed
+2024-04-26 17:43:30.787 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.audioencoder v3.0.0 installed
+2024-04-26 17:43:30.787 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.game v3.0.0 installed
+2024-04-26 17:43:30.788 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.imagedecoder v3.0.1 installed
+2024-04-26 17:43:30.788 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.inputstream v3.2.0 installed
+2024-04-26 17:43:30.788 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.peripheral v3.0.0 installed
+2024-04-26 17:43:30.788 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.pvr v8.2.0 installed
+2024-04-26 17:43:30.788 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.screensaver v2.2.0 installed
+2024-04-26 17:43:30.789 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.vfs v3.0.1 installed
+2024-04-26 17:43:30.789 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.videocodec v2.0.4 installed
+2024-04-26 17:43:30.789 T:5974     info <general>: CAddonMgr::FindAddons: kodi.binary.instance.visualization v4.0.0 installed
+2024-04-26 17:43:30.789 T:5974     info <general>: CAddonMgr::FindAddons: kodi.resource v1.0.0 installed
+2024-04-26 17:43:30.790 T:5974     info <general>: CAddonMgr::FindAddons: metadata.album.universal v3.1.9 installed
+2024-04-26 17:43:30.790 T:5974     info <general>: CAddonMgr::FindAddons: metadata.artists.universal v4.3.11 installed
+2024-04-26 17:43:30.790 T:5974     info <general>: CAddonMgr::FindAddons: metadata.common.allmusic.com v3.2.2 installed
+2024-04-26 17:43:30.790 T:5974     info <general>: CAddonMgr::FindAddons: metadata.common.fanart.tv v3.6.4 installed
+2024-04-26 17:43:30.791 T:5974     info <general>: CAddonMgr::FindAddons: metadata.common.musicbrainz.org v2.2.4 installed
+2024-04-26 17:43:30.791 T:5974     info <general>: CAddonMgr::FindAddons: metadata.common.theaudiodb.com v2.0.3 installed
+2024-04-26 17:43:30.791 T:5974     info <general>: CAddonMgr::FindAddons: metadata.generic.albums v1.0.18 installed
+2024-04-26 17:43:30.791 T:5974     info <general>: CAddonMgr::FindAddons: metadata.generic.artists v1.0.14 installed
+2024-04-26 17:43:30.792 T:5974     info <general>: CAddonMgr::FindAddons: metadata.local v1.0.1 installed
+2024-04-26 17:43:30.792 T:5974     info <general>: CAddonMgr::FindAddons: metadata.themoviedb.org.python v3.0.1 installed
+2024-04-26 17:43:30.792 T:5974     info <general>: CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org.python v1.6.6 installed
+2024-04-26 17:43:30.792 T:5974     info <general>: CAddonMgr::FindAddons: plugin.program.packthumb.service v2023.01.19.01 installed
+2024-04-26 17:43:30.792 T:5974     info <general>: CAddonMgr::FindAddons: plugin.video.elementum v0.1.102 installed
+2024-04-26 17:43:30.793 T:5974     info <general>: CAddonMgr::FindAddons: plugin.video.filmi2k v2023.07.11.01 installed
+2024-04-26 17:43:30.793 T:5974     info <general>: CAddonMgr::FindAddons: plugin.video.filmifen v2023.07.11.01 installed
+2024-04-26 17:43:30.793 T:5974     info <general>: CAddonMgr::FindAddons: plugin.video.vsi4kifilmi v0.20.0.18 installed
+2024-04-26 17:43:30.793 T:5974     info <general>: CAddonMgr::FindAddons: pvr.iptvsimple v21.3.1 installed
+2024-04-26 17:43:30.794 T:5974     info <general>: CAddonMgr::FindAddons: repository.elementumorg v0.0.2 installed
+2024-04-26 17:43:30.794 T:5974     info <general>: CAddonMgr::FindAddons: repository.majide v0.20.8 installed
+2024-04-26 17:43:30.794 T:5974     info <general>: CAddonMgr::FindAddons: repository.mar33 v3.3.33 installed
+2024-04-26 17:43:30.794 T:5974     info <general>: CAddonMgr::FindAddons: repository.xbmc.org v3.3.1 installed
+2024-04-26 17:43:30.794 T:5974     info <general>: CAddonMgr::FindAddons: resource.images.weathericons.default v1.1.9 installed
+2024-04-26 17:43:30.795 T:5974     info <general>: CAddonMgr::FindAddons: resource.language.en_gb v2.0.2 installed
+2024-04-26 17:43:30.795 T:5974     info <general>: CAddonMgr::FindAddons: resource.uisounds.kodi v1.0.1 installed
+2024-04-26 17:43:30.795 T:5974     info <general>: CAddonMgr::FindAddons: screensaver.xbmc.builtin.black v1.0.34 installed
+2024-04-26 17:43:30.795 T:5974     info <general>: CAddonMgr::FindAddons: screensaver.xbmc.builtin.dim v1.0.66 installed
+2024-04-26 17:43:30.796 T:5974     info <general>: CAddonMgr::FindAddons: script.elementum.burst v0.0.86 installed
+2024-04-26 17:43:30.796 T:5974     info <general>: CAddonMgr::FindAddons: script.module.beautifulsoup4 v4.12.2 installed
+2024-04-26 17:43:30.796 T:5974     info <general>: CAddonMgr::FindAddons: script.module.certifi v2023.5.7 installed
+2024-04-26 17:43:30.796 T:5974     info <general>: CAddonMgr::FindAddons: script.module.chardet v5.1.0 installed
+2024-04-26 17:43:30.796 T:5974     info <general>: CAddonMgr::FindAddons: script.module.findstreamurl v2024.04.13.01 installed
+2024-04-26 17:43:30.797 T:5974     info <general>: CAddonMgr::FindAddons: script.module.future v0.18.3+matrix.1 installed
+2024-04-26 17:43:30.797 T:5974     info <general>: CAddonMgr::FindAddons: script.module.idna v3.4.0 installed
+2024-04-26 17:43:30.797 T:5974     info <general>: CAddonMgr::FindAddons: script.module.kodi-six v0.1.3.1 installed
+2024-04-26 17:43:30.797 T:5974     info <general>: CAddonMgr::FindAddons: script.module.pil v5.1.0 installed
+2024-04-26 17:43:30.798 T:5974     info <general>: CAddonMgr::FindAddons: script.module.pycryptodome v3.4.3 installed
+2024-04-26 17:43:30.798 T:5974     info <general>: CAddonMgr::FindAddons: script.module.requests v2.31.0 installed
+2024-04-26 17:43:30.798 T:5974     info <general>: CAddonMgr::FindAddons: script.module.six v1.16.0+matrix.1 installed
+2024-04-26 17:43:30.798 T:5974     info <general>: CAddonMgr::FindAddons: script.module.soupsieve v2.4.1 installed
+2024-04-26 17:43:30.798 T:5974     info <general>: CAddonMgr::FindAddons: script.module.urllib3 v2.1.0 installed
+2024-04-26 17:43:30.799 T:5974     info <general>: CAddonMgr::FindAddons: service.xbmc.versioncheck v0.5.30+matrix.1 installed
+2024-04-26 17:43:30.799 T:5974     info <general>: CAddonMgr::FindAddons: skin.estouchy v3.0.8 installed
+2024-04-26 17:43:30.799 T:5974     info <general>: CAddonMgr::FindAddons: skin.estuary v3.0.10 installed
+2024-04-26 17:43:30.799 T:5974     info <general>: CAddonMgr::FindAddons: webinterface.default v19.x-2.4.8 installed
+2024-04-26 17:43:30.800 T:5974     info <general>: CAddonMgr::FindAddons: xbmc.addon v20.90.101 installed
+2024-04-26 17:43:30.800 T:5974     info <general>: CAddonMgr::FindAddons: xbmc.core v0.1.0 installed
+2024-04-26 17:43:30.800 T:5974     info <general>: CAddonMgr::FindAddons: xbmc.gui v5.16.0 installed
+2024-04-26 17:43:30.800 T:5974     info <general>: CAddonMgr::FindAddons: xbmc.json v13.1.0 installed
+2024-04-26 17:43:30.801 T:5974     info <general>: CAddonMgr::FindAddons: xbmc.metadata v2.1.0 installed
+2024-04-26 17:43:30.801 T:5974     info <general>: CAddonMgr::FindAddons: xbmc.python v3.0.1 installed
+2024-04-26 17:43:30.801 T:5974     info <general>: CAddonMgr::FindAddons: xbmc.webinterface v1.0.0 installed
+2024-04-26 17:43:30.822 T:5974     info <general>: CKeyboardLayoutManager: loading keyboard layouts from special://xbmc/system/keyboardlayouts...
+2024-04-26 17:43:30.864 T:5974     info <general>: InitWindowSystem: Connecting to Wayland server
+2024-04-26 17:43:30.884 T:5974     info <general>: UpdateResolutions: User wanted output "Default", we now have "" size 1920x1080 mm with 1 mode(s):
+2024-04-26 17:43:30.884 T:5974     info <general>: UpdateResolutions: - 1920x1080 @60.000 Hz pixel ratio 1.000 current
+2024-04-26 17:43:30.951 T:5974     info <general>: EGL_VERSION = 1.4 (DRI2)
+2024-04-26 17:43:30.951 T:5974     info <general>: EGL_VENDOR = Mesa Project
+2024-04-26 17:43:30.951 T:5974     info <general>: EGL_EXTENSIONS = EGL_EXT_buffer_age EGL_EXT_create_context_robustness EGL_EXT_image_dma_buf_import EGL_EXT_swap_buffers_with_damage EGL_KHR_create_context EGL_KHR_fence_sync EGL_KHR_get_all_proc_addresses EGL_KHR_gl_renderbuffer_image EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_image_base EGL_KHR_surfaceless_context EGL_KHR_wait_sync EGL_MESA_configless_context EGL_MESA_drm_image EGL_WL_bind_wayland_display EGL_WL_create_wayland_buffer_from_image EGL_IMG_context_priority 
+2024-04-26 17:43:30.951 T:5974     info <general>: EGL_CLIENT_EXTENSIONS = EGL_EXT_client_extensions EGL_EXT_platform_base EGL_EXT_platform_wayland EGL_EXT_platform_x11 EGL_KHR_client_get_all_proc_addresses EGL_MESA_platform_gbm
+2024-04-26 17:43:30.952 T:5974     info <general>: RetroPlayer[RENDER]: Registering renderer factory for DMA
+2024-04-26 17:43:30.952 T:5974     info <general>: RetroPlayer[RENDER]: Registering renderer factory for OpenGLES
+2024-04-26 17:43:30.952 T:5974     info <general>: CApplication::CreateGUI - using the wayland windowing system
+2024-04-26 17:43:30.952 T:5974     info <general>: Checking resolution 16
+2024-04-26 17:43:30.952 T:5974     info <general>: CreateNewWindow: Starting full screen size 1920x1080
+2024-04-26 17:43:30.984 T:5974  warning <general>: No data device manager announced by compositor, clipboard will not be available
+2024-04-26 14:43:31.017 T:5974     info <general>: Skipped 3 duplicate messages..
+2024-04-26 14:43:31.017 T:5974     info <general>: UpdateSizeVariables: Surface size changed: 0x0 -> 1920x1080
+2024-04-26 14:43:31.018 T:5974     info <general>: UpdateSizeVariables: Buffer size changed: 0x0 -> 1920x1080
+2024-04-26 14:43:31.018 T:5974     info <general>: UpdateSizeVariables: Configured size changed: 0x0 -> 1920x1080
+2024-04-26 14:43:31.072 T:5974     info <general>: GL_VENDOR = Imagination Technologies
+2024-04-26 14:43:31.072 T:5974     info <general>: GL_RENDERER = PowerVR Rogue GE7800
+2024-04-26 14:43:31.072 T:5974     info <general>: GL_VERSION = OpenGL ES 3.2 build 1.6@3956470 (1.6.RTM)
+2024-04-26 14:43:31.072 T:5974     info <general>: GL_SHADING_LANGUAGE_VERSION = OpenGL ES GLSL ES 3.20 build 1.6@3956470 (1.6.RTM)
+2024-04-26 14:43:31.072 T:5974     info <general>: GL_EXTENSIONS = GL_ANDROID_extension_pack_es31a GL_EXT_blend_minmax GL_EXT_color_buffer_float GL_EXT_copy_image GL_EXT_discard_framebuffer GL_EXT_draw_buffers GL_EXT_draw_buffers_indexed GL_EXT_draw_elements_base_vertex GL_EXT_geometry_point_size GL_EXT_geometry_shader GL_EXT_gpu_shader5 GL_EXT_multi_draw_arrays GL_EXT_multisampled_render_to_texture GL_EXT_occlusion_query_boolean GL_EXT_primitive_bounding_box GL_EXT_pvrtc_sRGB GL_EXT_read_format_bgra GL_EXT_robustness GL_EXT_separate_shader_objects GL_EXT_shader_framebuffer_fetch GL_EXT_shader_io_blocks GL_EXT_shader_pixel_local_storage GL_EXT_shader_pixel_local_storage2 GL_EXT_shader_texture_lod GL_EXT_shadow_samplers GL_EXT_tessellation_point_size GL_EXT_tessellation_shader GL_EXT_texture_border_clamp GL_EXT_texture_buffer GL_EXT_texture_cube_map_array GL_EXT_texture_filter_anisotropic GL_EXT_texture_format_BGRA8888 GL_EXT_texture_rg GL_EXT_texture_sRGB_decode GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_shader_group_vote GL_EXT_polygon_offset_clamp GL_IMG_multisampled_render_to_texture GL_IMG_program_binary GL_IMG_read_format GL_IMG_shader_binary GL_IMG_texture_compression_pvrtc GL_IMG_texture_compression_pvrtc2 GL_IMG_texture_format_BGRA8888 GL_IMG_texture_npot GL_IMG_framebuffer_downsample GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_debug GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth24 GL_OES_depth_texture GL_OES_draw_elements_base_vertex GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_image_external_essl3 GL_OES_EGL_sync GL_OES_element_index_uint GL_OES_fragment_precision_high GL_OES_draw_buffers_indexed GL_OES_geometry_point_size GL_OES_geometry_shader GL_OES_get_program_binary GL_OES_gpu_shader5 GL_OES_mapbuffer GL_OES_packed_depth_stencil GL_OES_required_internalformat GL_OES_rgb8_rgba8 GL_OES_sample_shading GL_OES_sample_variables GL_OES_shader_image_atomic GL_OES_shader_io_blocks GL_OES_shader_multisample_interpolation GL_OES_standard_derivatives GL_OES_surfaceless_context GL_OES_tessellation_point_size GL_OES_tessellation_shader GL_OES_texture_border_clamp GL_OES_texture_buffer GL_OES_texture_cube_map_array GL_OES_texture_float GL_OES_texture_half_float GL_OES_texture_npot GL_OES_texture_stencil8 GL_OES_texture_storage_multisample_2d_array GL_OES_vertex_array_object GL_OES_vertex_half_float
+2024-04-26 14:43:31.696 T:5974     info <general>: SetResolutionExternal: Kodi asked to switch mode to 1920x1080 @60.000 Hz on output "" full screen
+2024-04-26 14:43:31.698 T:5974     info <general>: GetOSScreenSaverImpl: No supported method for screen saver inhibition found
+2024-04-26 14:43:32.295 T:5974     info <general>: GLES: Enabling VSYNC
+2024-04-26 14:43:32.296 T:5974     info <general>: UpdateResolutions: User wanted output "Default", we now have "" size 1920x1080 mm with 1 mode(s):
+2024-04-26 14:43:32.296 T:5974     info <general>: UpdateResolutions: - 1920x1080 @60.000 Hz pixel ratio 1.000 current
+2024-04-26 14:43:32.296 T:5974     info <general>: load keymapping
+2024-04-26 14:43:32.312 T:5974     info <general>: Loading special://xbmc/system/keymaps/appcommand.xml
+2024-04-26 14:43:32.313 T:5974     info <general>: Loading special://xbmc/system/keymaps/customcontroller.AppleRemote.xml
+2024-04-26 14:43:32.316 T:5974     info <general>: Loading special://xbmc/system/keymaps/customcontroller.Harmony.xml
+2024-04-26 14:43:32.324 T:5974     info <general>: Loading special://xbmc/system/keymaps/customcontroller.SiriRemote.xml
+2024-04-26 14:43:32.327 T:5974     info <general>: Loading special://xbmc/system/keymaps/gamepad.xml
+2024-04-26 14:43:32.350 T:5974     info <general>: Loading special://xbmc/system/keymaps/joystick.xml
+2024-04-26 14:43:32.357 T:5974     info <general>: Loading special://xbmc/system/keymaps/keyboard.xml
+2024-04-26 14:43:32.372 T:5974     info <general>: Loading special://xbmc/system/keymaps/mouse.xml
+2024-04-26 14:43:32.374 T:5974     info <general>: Loading special://xbmc/system/keymaps/remote.xml
+2024-04-26 14:43:32.382 T:5974     info <general>: Loading special://xbmc/system/keymaps/touchscreen.xml
+2024-04-26 14:43:32.400 T:5974     info <general>: GUI format 1920x1080, Display : 1920x1080 @ 60.00Hz
+2024-04-26 14:43:32.534 T:6015     info <general>: Found 2 Lists of Devices
+2024-04-26 14:43:32.534 T:6015     info <general>: Enumerated ALSA devices:
+2024-04-26 14:43:32.534 T:6015     info <general>:     Device 1
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_deviceName      : default
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_displayName     : Default
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_displayNameExtra: 
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_channels        : FL, FR, BL, BR, FC, LFE, SL, SR, UNKNOWN1, UNKNOWN2, UNKNOWN3, UNKNOWN4, UNKNOWN5, UNKNOWN6, UNKNOWN7, UNKNOWN8
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_dataFormats     : AE_FMT_FLOAT,AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_U8
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_streamTypes     : No passthrough capabilities
+2024-04-26 14:43:32.534 T:6015     info <general>:     Device 2
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_deviceName      : sysdefault:CARD=Mars
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_displayName     : Mars
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_displayNameExtra: Mars PCM
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_channels        : FL, FR
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_sampleRates     : 44100,48000
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_dataFormats     : AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+2024-04-26 14:43:32.534 T:6015     info <general>:         m_streamTypes     : No passthrough capabilities
+2024-04-26 14:43:32.534 T:6015     info <general>: Enumerated Starfish devices:
+2024-04-26 14:43:32.534 T:6015     info <general>:     Device 1
+2024-04-26 14:43:32.535 T:6015     info <general>:         m_deviceName      : Starfish
+2024-04-26 14:43:32.535 T:6015     info <general>:         m_displayName     : Starfish (Passthrough only)
+2024-04-26 14:43:32.535 T:6015     info <general>:         m_displayNameExtra: 
+2024-04-26 14:43:32.535 T:6015     info <general>:         m_deviceType      : AE_DEVTYPE_IEC958
+2024-04-26 14:43:32.535 T:6015     info <general>:         m_channels        : FL, FR, FC, LFE, BL, BR
+2024-04-26 14:43:32.535 T:6015     info <general>:         m_sampleRates     : 48000,44100,32000,24000,22050,16000,12000,8000
+2024-04-26 14:43:32.535 T:6015     info <general>:         m_dataFormats     : AE_FMT_RAW
+2024-04-26 14:43:32.535 T:6015     info <general>:         m_streamTypes     : STREAM_TYPE_AC3
+2024-04-26 14:43:32.535 T:6016     info <general>: CActiveAESink::OpenSink - initialize sink
+2024-04-26 14:43:32.535 T:6016     info <general>: CAESinkALSA::Initialize - Attempting to open device "default"
+2024-04-26 14:43:32.540 T:6016     info <general>: CAESinkALSA::Initialize - Opened device "default"
+2024-04-26 14:43:32.599 T:6015  warning <general>: CActiveAE::StateMachine - signal: 0 from port: OutputControlPort not handled for state: 7
+2024-04-26 14:43:42.410 T:5974    error <general>: ActiveAE::Start - failed to init
+2024-04-26 14:43:42.412 T:5974     info <general>: CLangInfo: loading resource.language.en_gb language information...
+2024-04-26 14:43:42.426 T:5974     info <general>: global locale set to C
+2024-04-26 14:43:42.427 T:5974     info <general>: CLangInfo: loading resource.language.en_gb language strings...
+2024-04-26 14:43:42.464 T:5974  warning <general>: Repository add-on repository.elementumorg uses plain HTTP for add-on downloads in path http://127.0.0.1:65223/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:42.464 T:5974  warning <general>: Repository add-on repository.mar33 uses plain HTTP for add-on downloads in path http://martinstz.com/_repo/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:42.567 T:6031     info <general>: Running database version Addons33
+2024-04-26 14:43:42.570 T:6031     info <general>: Running database version ViewModes6
+2024-04-26 14:43:42.572 T:6031     info <general>: Running database version Textures13
+2024-04-26 14:43:42.581 T:6031     info <general>: Running database version MyMusic82
+2024-04-26 14:43:42.595 T:6031     info <general>: Running database version MyVideos121
+2024-04-26 14:43:42.599 T:6031     info <general>: Running database version TV43
+2024-04-26 14:43:42.602 T:6031     info <general>: Running database version Epg16
+2024-04-26 14:43:42.697 T:5974     info <general>: Unloaded skin
+2024-04-26 14:43:42.702 T:5974     info <general>:   load skin from: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/addons/skin.estuary/ (version: 3.0.10)
+2024-04-26 14:43:42.702 T:5974     info <general>:   load fonts for skin...
+2024-04-26 14:43:42.706 T:5974     info <general>: Loading skin includes from /media/developer/apps/usr/palm/applications/org.xbmc.kodi/addons/skin.estuary/xml/Includes.xml
+2024-04-26 14:43:42.843 T:5974     info <general>: LoadFonts: Loading fonts from '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/addons/skin.estuary/xml/Font.xml'
+2024-04-26 14:43:42.878 T:5974     info <general>: LoadTimers: Trying to load skin timers from /media/developer/apps/usr/palm/applications/org.xbmc.kodi/addons/skin.estuary/xml/Timers.xml
+2024-04-26 14:43:42.880 T:5974     info <general>:   load new skin...
+2024-04-26 14:43:42.880 T:5974     info <general>: Loading custom window XMLs from skin path /media/developer/apps/usr/palm/applications/org.xbmc.kodi/addons/skin.estuary/xml
+2024-04-26 14:43:42.901 T:5974     info <general>:   initialize new skin...
+2024-04-26 14:43:42.901 T:5974     info <general>: Loading skin file: Custom_1109_TopBarOverlay.xml, load type: LOAD_ON_GUI_INIT
+2024-04-26 14:43:42.934 T:5974     info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2024-04-26 14:43:42.936 T:5974     info <general>: Loading skin file: DialogNotification.xml, load type: LOAD_ON_GUI_INIT
+2024-04-26 14:43:42.939 T:5974     info <general>: Loading skin file: DialogSeekBar.xml, load type: LOAD_ON_GUI_INIT
+2024-04-26 14:43:42.975 T:5974     info <general>: Loading skin file: DialogExtendedProgressBar.xml, load type: LOAD_ON_GUI_INIT
+2024-04-26 14:43:42.979 T:5974     info <general>: Loading skin file: Pointer.xml, load type: LOAD_ON_GUI_INIT
+2024-04-26 14:43:42.981 T:5974     info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2024-04-26 14:43:42.984 T:5974     info <general>: Loading skin file: DialogVolumeBar.xml, load type: LOAD_ON_GUI_INIT
+2024-04-26 14:43:42.986 T:5974     info <general>: Loading resource://resource.uisounds.kodi/sounds.xml
+2024-04-26 14:43:43.103 T:5974     info <general>:   skin loaded...
+2024-04-26 14:43:43.104 T:5974     info <general>: Loading skin file: Startup.xml, load type: LOAD_EVERY_TIME
+2024-04-26 14:43:43.105 T:5974     info <general>: Loading skin file: Home.xml, load type: KEEP_IN_MEMORY
+2024-04-26 14:43:43.330 T:6031  warning <general>: Repository add-on repository.elementumorg uses plain HTTP for add-on downloads in path http://127.0.0.1:65223/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.355 T:6031     info <general>: Skipped 1 duplicate messages..
+2024-04-26 14:43:43.355 T:6031  warning <general>: Repository add-on repository.mar33 uses plain HTTP for add-on downloads in path http://martinstz.com/_repo/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.662 T:6031  warning <general>: Repository add-on repository.elementumorg uses plain HTTP for add-on downloads in path http://127.0.0.1:65223/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.662 T:6031  warning <general>: Repository add-on repository.mar33 uses plain HTTP for add-on downloads in path http://martinstz.com/_repo/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.687 T:6031  warning <general>: Repository add-on repository.elementumorg uses plain HTTP for add-on downloads in path http://127.0.0.1:65223/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.687 T:6031  warning <general>: Repository add-on repository.mar33 uses plain HTTP for add-on downloads in path http://martinstz.com/_repo/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.740 T:5974  warning <general>: JSONRPC: Could not parse type "Setting.Details.SettingList"
+2024-04-26 14:43:43.740 T:5974     info <general>: JSONRPC: Adding type "Setting.Details.SettingList" to list of incomplete definitions (waiting for "Setting.Details.Setting")
+2024-04-26 14:43:43.741 T:5974     info <general>: JSONRPC: Resolving incomplete types/methods referencing Setting.Details.Setting
+2024-04-26 14:43:43.825 T:5974     info <general>: JSONRPC v13.1.0: Successfully initialized
+2024-04-26 14:43:43.825 T:5974     info <general>: [Media Detection] starting service for optical media detection
+2024-04-26 14:43:43.837 T:5974     info <general>: Register - new keyboard device registered on application->keyboard: Keyboard (0000:0000)
+2024-04-26 14:43:43.838 T:5974     info <general>: Register - new mouse device registered on application->mouse: Mouse (0000:0000)
+2024-04-26 14:43:43.838 T:5974     info <general>: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2024-04-26 14:43:43.839 T:6033    error <general>: GetDirectory - Error getting /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/pvr.iptvsimple/
+2024-04-26 14:43:43.839 T:6033    error <general>: GetDirectory - Error getting special://profile/addon_data/pvr.iptvsimple/
+2024-04-26 14:43:43.839 T:5974     info <general>: Loaded playercorefactory configuration
+2024-04-26 14:43:43.840 T:5974     info <general>: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2024-04-26 14:43:43.840 T:5974     info <general>: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2024-04-26 14:43:43.840 T:5974     info <general>: removing tempfiles
+2024-04-26 14:43:43.841 T:5974  warning <general>: Repository add-on repository.elementumorg uses plain HTTP for add-on downloads in path http://127.0.0.1:65223/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.842 T:5974  warning <general>: Repository add-on repository.mar33 uses plain HTTP for add-on downloads in path http://martinstz.com/_repo/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.851 T:5974     info <general>: initialize done
+2024-04-26 14:43:43.851 T:5974     info <general>: Running the application...
+2024-04-26 14:43:43.852 T:5974  warning <general>: Repository add-on repository.elementumorg uses plain HTTP for add-on downloads in path http://127.0.0.1:65223/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.853 T:5974  warning <general>: Repository add-on repository.mar33 uses plain HTTP for add-on downloads in path http://martinstz.com/_repo/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:43.858 T:6047     info <general>: ES: Starting UDP Event server on port 9777
+2024-04-26 14:43:43.859 T:6047     info <general>: UDP: Listening on port 9777 (ipv6 : false)
+2024-04-26 14:43:43.861 T:5974     info <general>: JSONRPC Server: Successfully initialized
+2024-04-26 14:43:43.861 T:5974     info <general>: CWSDiscoveryListenerUDP::Start - Started
+2024-04-26 14:43:44.563 T:5974     info <general>: GLES: Maximum texture width: 8192
+2024-04-26 14:43:45.354 T:6045  warning <general>: Repository add-on repository.elementumorg uses plain HTTP for add-on downloads in path http://127.0.0.1:65223/ - this is insecure and will make your Kodi installation vulnerable to attacks if enabled!
+2024-04-26 14:43:46.774 T:6072  warning <general>: [plugin.video.elementum] elementumd: starting elementumd
+2024-04-26 14:43:46.775 T:6071  warning <general>: [plugin.video.elementum] elementum: starting jsonrpc service
+2024-04-26 14:43:46.775 T:6048     info <general>: JSONRPC Server: New connection added
+2024-04-26 14:43:46.775 T:6048     info <general>: JSONRPC Server: Disconnection detected
+2024-04-26 14:43:46.775 T:6072  warning <general>: [plugin.video.elementum] Kodi's JSON-RPC service is available, starting up...
+2024-04-26 14:43:46.781 T:6072  warning <general>: [plugin.video.elementum] Binary detection. Version: v0.1.102, Source: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/addons/plugin.video.elementum/resources/bin/linux_armv7_softfp/elementum, Destination: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum
+2024-04-26 14:43:46.966 T:6072  warning <general>: [plugin.video.elementum] Deleting stale files set()
+2024-04-26 14:43:46.967 T:6072  warning <general>: [plugin.video.elementum] Binary detection: [ Source: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/addons/plugin.video.elementum/resources/bin/linux_armv7_softfp/elementum, Destination: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum ]
+2024-04-26 14:43:46.967 T:6072  warning <general>: [plugin.video.elementum] Binary dir: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp, item: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum 
+2024-04-26 14:43:47.015 T:6072  warning <general>: [plugin.video.elementum] elementumd: start args: ['/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum', '-remotePort=65221', '-localPort=65220'], kw: {'stdout': -1, 'stderr': -2, 'cwd': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp', 'env': {'OPENSSL_armcap': '0', 'GLIBC_BACKTRACE': 'YES', 'SULOGIN': 'no', 'UPSTART_INSTANCE': '', 'LOG_LEVEL': '0', 'GST_PLUGIN_PATH_1_0': '/usr/lib/gstreamer-1.0:/mnt/lg/res/lglib/gstreamer-1.0', 'XDG_DIR': '/tmp/xdg', 'QSG_PROGRAM_BINARY_STORE': '/var/cache/qsg-shader-cache', 'SDP_SYS_PATH': '/mnt/cache/sdp', 'QMLSCENE_DEVICE': 'customcontext', 'LOAD_DSYM': '1', 'GDB_ROOT': '', 'LD_LIBRARY_PATH': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp:/mnt/bsppart/bsp/lib:/mnt/bsppart/bsp/usr/lib:/mnt/license/usr/lib:/usr/lib:/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib', 'QT_WAYLAND_XKB_RULE_NAMES': 'evdev:lgwebos:us::', 'USE_OSAMM': '0', 'HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi', 'FSCKFIX': 'yes', 'IS_SNAP_PROFILE': 'NO', 'IS_SNAP': 'YES', 'GST_REGISTRY_1_0': '/mnt/flash/data/gst_1_0_registry.arm.bin', 'QML2_IMPORT_PATH': '/usr/lib/qt5/qml', 'ROOTFS_READ_ONLY': 'yes', 'QT_WAYLAND_DISABLE_WINDOWDECORATION': '1', 'IS_NFS': 'NO', 'VOLATILE_ENABLE_CACHE': 'yes', 'UPSTART_JOB': 'sam', 'QT_COMPOSITOR_NEGATE_INVERTED_Y': '1', 'GST_PLUGIN_SCANNER': '/usr/bin/gst-plugin-scanner', 'LOAD_SYM': '2', 'STARFISH_SCREEN_HEIGHT': '1080', 'TMPTIME': '0', 'GIO_EXTRA_MODULES': '/usr/lib/gio/modules', 'OSAMEM_SIZE': '0x200000', 'TERM': 'linux', 'COMPONENTS_PATH': '/mnt/lg/res/lglib/openmax', 'PATH': '/mnt/bsppart/bsp/usr/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/xdg', 'QTWEBKIT_PLUGIN_PATH': '/usr/lib/BrowserPlugins', 'LOG_CALLER': 'NO', 'CRASH_REPORT': 'YES', 'GST_PLUGIN_PATH': '/usr/lib/gstreamer-0.10', 'SDL_VIDEODRIVER': 'wayland', 'HOOK_SEGV': 'NO', 'GST_PLUGIN_SCANNER_1_0': '/usr/libexec/gstreamer-1.0/gst-plugin-scanner', 'SNAP_FLOCK': '/tmp/snapshot_flock', 'EDITMOTD': 'no', 'UPSTART_EVENTS': 'ls-hubd_public-ready lsm-ready', 'APPFRWK_MASK_PATH': '/mnt/lg/cmn_data/appfrwk_mask', 'QT_HARFBUZZ': 'new', 'QT_QPA_FONTDIR': '/usr/share/fonts', 'QT_IM_MODULE': 'wayland', 'ENABLE_ROOTFS_FSCK': 'no', 'PWD': '/', 'WEBOS_GL_DISABLE_THREADED_RENDERING': '1', 'QT_QPA_PLATFORM': 'wayland', 'QT_WAYLAND_HARDWARE_INTEGRATION': 'wayland-egl', 'LGAPP_DIR': '/mnt/lg/lgapp', 'WEBAPPFACTORY': 'netcast:hbbtv', 'HOOK_THR': 'NO', 'KDRV_DIR': '/mnt/lg/res/lglib/kdrv', 'GST_REGISTRY_UPDATE': 'no', 'GST_REGISTRY': '/mnt/flash/data/gst_registry.arm.bin', '0': '', 'DEBUG_STATUS': '5', 'STARFISH_SCREEN_WIDTH': '1920', 'ATTR_FORCE_SCHEDNORMAL': 'YES', 'DBGFRWK_SYSLOG': 'GLOBAL', 'QT_VER': 'qt5', 'RWMOUNT_FLAG': '/tmp/mount-readwrite.conf.done', 'VERBOSE': 'no', 'DELAYLOGIN': 'no', 'AT_QPA_PLATFORM': 'wayland-egl', 'QT_WAYLAND_HARDWARE_INTERGRATION': 'wayland-egl', 'SDL_MRCU_TIMER': '300000', 'APPID': 'org.xbmc.kodi', 'KODI_BIN_HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi', 'KODI_HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3/lib/python3', 'OS': 'Linux', 'XKB_CONFIG_ROOT': '/usr/share/X11/xkb', 'WAYLAND_DISPLAY': 'wayland-0', 'PYTHONHOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3', 'PYTHONPATH': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3/lib/python3', 'PYTHONIOENCODING': 'UTF-8', 'SSL_CERT_FILE': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/system/certs/cacert.pem', 'TZ': ':preferences/localtime', 'PYTHONOPTIMIZE': '1'}, 'close_fds': True}
+2024-04-26 14:43:47.020 T:6072  warning <general>: [plugin.video.elementum] elementumd: started process
+2024-04-26 14:43:47.023 T:6072  warning <general>: [plugin.video.elementum] /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum: /lib/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum)
+2024-04-26 14:43:47.025 T:6072  warning <general>: [plugin.video.elementum] System information: linux_armv7_softfp 
+2024-04-26 14:43:47.025 T:6072  warning <general>: [plugin.video.elementum] Kodi build version: 21.0-ALPHA1 (20.90.101) Git:20230410-43388ac-dirty
+2024-04-26 14:43:47.025 T:6072  warning <general>: [plugin.video.elementum] OS type: Linux
+2024-04-26 14:43:47.025 T:6072  warning <general>: [plugin.video.elementum] uname: uname_result(system='Linux', node='LGwebOSTV', release='4.4.3-208.drd4tv.3', version='#1 SMP PREEMPT Wed Jan 18 11:04:48 KST 2023', machine='armv7l')
+2024-04-26 14:43:47.026 T:6072  warning <general>: [plugin.video.elementum] Sleeping before next restart attempt
+2024-04-26 14:43:52.026 T:6072  warning <general>: [plugin.video.elementum] elementumd: starting elementumd
+2024-04-26 14:43:52.027 T:6048     info <general>: JSONRPC Server: New connection added
+2024-04-26 14:43:52.027 T:6048     info <general>: JSONRPC Server: Disconnection detected
+2024-04-26 14:43:52.028 T:6072  warning <general>: [plugin.video.elementum] Kodi's JSON-RPC service is available, starting up...
+2024-04-26 14:43:52.034 T:6072  warning <general>: [plugin.video.elementum] Binary detection. Version: v0.1.102, Source: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/addons/plugin.video.elementum/resources/bin/linux_armv7_softfp/elementum, Destination: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum
+2024-04-26 14:43:52.036 T:6072  warning <general>: [plugin.video.elementum] Deleting stale files set()
+2024-04-26 14:43:52.036 T:6072  warning <general>: [plugin.video.elementum] Binary detection: [ Source: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/addons/plugin.video.elementum/resources/bin/linux_armv7_softfp/elementum, Destination: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum ]
+2024-04-26 14:43:52.037 T:6072  warning <general>: [plugin.video.elementum] Binary dir: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp, item: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum 
+2024-04-26 14:43:52.067 T:6072  warning <general>: [plugin.video.elementum] elementumd: start args: ['/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum', '-remotePort=65221', '-localPort=65220'], kw: {'stdout': -1, 'stderr': -2, 'cwd': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp', 'env': {'OPENSSL_armcap': '0', 'GLIBC_BACKTRACE': 'YES', 'SULOGIN': 'no', 'UPSTART_INSTANCE': '', 'LOG_LEVEL': '0', 'GST_PLUGIN_PATH_1_0': '/usr/lib/gstreamer-1.0:/mnt/lg/res/lglib/gstreamer-1.0', 'XDG_DIR': '/tmp/xdg', 'QSG_PROGRAM_BINARY_STORE': '/var/cache/qsg-shader-cache', 'SDP_SYS_PATH': '/mnt/cache/sdp', 'QMLSCENE_DEVICE': 'customcontext', 'LOAD_DSYM': '1', 'GDB_ROOT': '', 'LD_LIBRARY_PATH': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp:/mnt/bsppart/bsp/lib:/mnt/bsppart/bsp/usr/lib:/mnt/license/usr/lib:/usr/lib:/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib', 'QT_WAYLAND_XKB_RULE_NAMES': 'evdev:lgwebos:us::', 'USE_OSAMM': '0', 'HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi', 'FSCKFIX': 'yes', 'IS_SNAP_PROFILE': 'NO', 'IS_SNAP': 'YES', 'GST_REGISTRY_1_0': '/mnt/flash/data/gst_1_0_registry.arm.bin', 'QML2_IMPORT_PATH': '/usr/lib/qt5/qml', 'ROOTFS_READ_ONLY': 'yes', 'QT_WAYLAND_DISABLE_WINDOWDECORATION': '1', 'IS_NFS': 'NO', 'VOLATILE_ENABLE_CACHE': 'yes', 'UPSTART_JOB': 'sam', 'QT_COMPOSITOR_NEGATE_INVERTED_Y': '1', 'GST_PLUGIN_SCANNER': '/usr/bin/gst-plugin-scanner', 'LOAD_SYM': '2', 'STARFISH_SCREEN_HEIGHT': '1080', 'TMPTIME': '0', 'GIO_EXTRA_MODULES': '/usr/lib/gio/modules', 'OSAMEM_SIZE': '0x200000', 'TERM': 'linux', 'COMPONENTS_PATH': '/mnt/lg/res/lglib/openmax', 'PATH': '/mnt/bsppart/bsp/usr/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/xdg', 'QTWEBKIT_PLUGIN_PATH': '/usr/lib/BrowserPlugins', 'LOG_CALLER': 'NO', 'CRASH_REPORT': 'YES', 'GST_PLUGIN_PATH': '/usr/lib/gstreamer-0.10', 'SDL_VIDEODRIVER': 'wayland', 'HOOK_SEGV': 'NO', 'GST_PLUGIN_SCANNER_1_0': '/usr/libexec/gstreamer-1.0/gst-plugin-scanner', 'SNAP_FLOCK': '/tmp/snapshot_flock', 'EDITMOTD': 'no', 'UPSTART_EVENTS': 'ls-hubd_public-ready lsm-ready', 'APPFRWK_MASK_PATH': '/mnt/lg/cmn_data/appfrwk_mask', 'QT_HARFBUZZ': 'new', 'QT_QPA_FONTDIR': '/usr/share/fonts', 'QT_IM_MODULE': 'wayland', 'ENABLE_ROOTFS_FSCK': 'no', 'PWD': '/', 'WEBOS_GL_DISABLE_THREADED_RENDERING': '1', 'QT_QPA_PLATFORM': 'wayland', 'QT_WAYLAND_HARDWARE_INTEGRATION': 'wayland-egl', 'LGAPP_DIR': '/mnt/lg/lgapp', 'WEBAPPFACTORY': 'netcast:hbbtv', 'HOOK_THR': 'NO', 'KDRV_DIR': '/mnt/lg/res/lglib/kdrv', 'GST_REGISTRY_UPDATE': 'no', 'GST_REGISTRY': '/mnt/flash/data/gst_registry.arm.bin', '0': '', 'DEBUG_STATUS': '5', 'STARFISH_SCREEN_WIDTH': '1920', 'ATTR_FORCE_SCHEDNORMAL': 'YES', 'DBGFRWK_SYSLOG': 'GLOBAL', 'QT_VER': 'qt5', 'RWMOUNT_FLAG': '/tmp/mount-readwrite.conf.done', 'VERBOSE': 'no', 'DELAYLOGIN': 'no', 'AT_QPA_PLATFORM': 'wayland-egl', 'QT_WAYLAND_HARDWARE_INTERGRATION': 'wayland-egl', 'SDL_MRCU_TIMER': '300000', 'APPID': 'org.xbmc.kodi', 'KODI_BIN_HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi', 'KODI_HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3/lib/python3', 'OS': 'Linux', 'XKB_CONFIG_ROOT': '/usr/share/X11/xkb', 'WAYLAND_DISPLAY': 'wayland-0', 'PYTHONHOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3', 'PYTHONPATH': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3/lib/python3', 'PYTHONIOENCODING': 'UTF-8', 'SSL_CERT_FILE': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/system/certs/cacert.pem', 'TZ': ':preferences/localtime', 'PYTHONOPTIMIZE': '1'}, 'close_fds': True}
+2024-04-26 14:43:52.072 T:6072  warning <general>: [plugin.video.elementum] elementumd: started process
+2024-04-26 14:43:52.077 T:6072  warning <general>: [plugin.video.elementum] /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum: /lib/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum)
+2024-04-26 14:43:52.078 T:6072  warning <general>: [plugin.video.elementum] System information: linux_armv7_softfp 
+2024-04-26 14:43:52.079 T:6072  warning <general>: [plugin.video.elementum] Kodi build version: 21.0-ALPHA1 (20.90.101) Git:20230410-43388ac-dirty
+2024-04-26 14:43:52.079 T:6072  warning <general>: [plugin.video.elementum] OS type: Linux
+2024-04-26 14:43:52.079 T:6072  warning <general>: [plugin.video.elementum] uname: uname_result(system='Linux', node='LGwebOSTV', release='4.4.3-208.drd4tv.3', version='#1 SMP PREEMPT Wed Jan 18 11:04:48 KST 2023', machine='armv7l')
+2024-04-26 14:43:52.079 T:6072  warning <general>: [plugin.video.elementum] Sleeping before next restart attempt
+2024-04-26 14:43:57.080 T:6072  warning <general>: [plugin.video.elementum] elementumd: starting elementumd
+2024-04-26 14:43:57.081 T:6048     info <general>: JSONRPC Server: New connection added
+2024-04-26 14:43:57.081 T:6048     info <general>: JSONRPC Server: Disconnection detected
+2024-04-26 14:43:57.081 T:6072  warning <general>: [plugin.video.elementum] Kodi's JSON-RPC service is available, starting up...
+2024-04-26 14:43:57.087 T:6072  warning <general>: [plugin.video.elementum] Binary detection. Version: v0.1.102, Source: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/addons/plugin.video.elementum/resources/bin/linux_armv7_softfp/elementum, Destination: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum
+2024-04-26 14:43:57.088 T:6072  warning <general>: [plugin.video.elementum] Deleting stale files set()
+2024-04-26 14:43:57.089 T:6072  warning <general>: [plugin.video.elementum] Binary detection: [ Source: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/addons/plugin.video.elementum/resources/bin/linux_armv7_softfp/elementum, Destination: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum ]
+2024-04-26 14:43:57.089 T:6072  warning <general>: [plugin.video.elementum] Binary dir: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp, item: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum 
+2024-04-26 14:43:57.251 T:6072  warning <general>: [plugin.video.elementum] elementumd: start args: ['/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum', '-remotePort=65221', '-localPort=65220'], kw: {'stdout': -1, 'stderr': -2, 'cwd': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp', 'env': {'OPENSSL_armcap': '0', 'GLIBC_BACKTRACE': 'YES', 'SULOGIN': 'no', 'UPSTART_INSTANCE': '', 'LOG_LEVEL': '0', 'GST_PLUGIN_PATH_1_0': '/usr/lib/gstreamer-1.0:/mnt/lg/res/lglib/gstreamer-1.0', 'XDG_DIR': '/tmp/xdg', 'QSG_PROGRAM_BINARY_STORE': '/var/cache/qsg-shader-cache', 'SDP_SYS_PATH': '/mnt/cache/sdp', 'QMLSCENE_DEVICE': 'customcontext', 'LOAD_DSYM': '1', 'GDB_ROOT': '', 'LD_LIBRARY_PATH': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp:/mnt/bsppart/bsp/lib:/mnt/bsppart/bsp/usr/lib:/mnt/license/usr/lib:/usr/lib:/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib', 'QT_WAYLAND_XKB_RULE_NAMES': 'evdev:lgwebos:us::', 'USE_OSAMM': '0', 'HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi', 'FSCKFIX': 'yes', 'IS_SNAP_PROFILE': 'NO', 'IS_SNAP': 'YES', 'GST_REGISTRY_1_0': '/mnt/flash/data/gst_1_0_registry.arm.bin', 'QML2_IMPORT_PATH': '/usr/lib/qt5/qml', 'ROOTFS_READ_ONLY': 'yes', 'QT_WAYLAND_DISABLE_WINDOWDECORATION': '1', 'IS_NFS': 'NO', 'VOLATILE_ENABLE_CACHE': 'yes', 'UPSTART_JOB': 'sam', 'QT_COMPOSITOR_NEGATE_INVERTED_Y': '1', 'GST_PLUGIN_SCANNER': '/usr/bin/gst-plugin-scanner', 'LOAD_SYM': '2', 'STARFISH_SCREEN_HEIGHT': '1080', 'TMPTIME': '0', 'GIO_EXTRA_MODULES': '/usr/lib/gio/modules', 'OSAMEM_SIZE': '0x200000', 'TERM': 'linux', 'COMPONENTS_PATH': '/mnt/lg/res/lglib/openmax', 'PATH': '/mnt/bsppart/bsp/usr/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/xdg', 'QTWEBKIT_PLUGIN_PATH': '/usr/lib/BrowserPlugins', 'LOG_CALLER': 'NO', 'CRASH_REPORT': 'YES', 'GST_PLUGIN_PATH': '/usr/lib/gstreamer-0.10', 'SDL_VIDEODRIVER': 'wayland', 'HOOK_SEGV': 'NO', 'GST_PLUGIN_SCANNER_1_0': '/usr/libexec/gstreamer-1.0/gst-plugin-scanner', 'SNAP_FLOCK': '/tmp/snapshot_flock', 'EDITMOTD': 'no', 'UPSTART_EVENTS': 'ls-hubd_public-ready lsm-ready', 'APPFRWK_MASK_PATH': '/mnt/lg/cmn_data/appfrwk_mask', 'QT_HARFBUZZ': 'new', 'QT_QPA_FONTDIR': '/usr/share/fonts', 'QT_IM_MODULE': 'wayland', 'ENABLE_ROOTFS_FSCK': 'no', 'PWD': '/', 'WEBOS_GL_DISABLE_THREADED_RENDERING': '1', 'QT_QPA_PLATFORM': 'wayland', 'QT_WAYLAND_HARDWARE_INTEGRATION': 'wayland-egl', 'LGAPP_DIR': '/mnt/lg/lgapp', 'WEBAPPFACTORY': 'netcast:hbbtv', 'HOOK_THR': 'NO', 'KDRV_DIR': '/mnt/lg/res/lglib/kdrv', 'GST_REGISTRY_UPDATE': 'no', 'GST_REGISTRY': '/mnt/flash/data/gst_registry.arm.bin', '0': '', 'DEBUG_STATUS': '5', 'STARFISH_SCREEN_WIDTH': '1920', 'ATTR_FORCE_SCHEDNORMAL': 'YES', 'DBGFRWK_SYSLOG': 'GLOBAL', 'QT_VER': 'qt5', 'RWMOUNT_FLAG': '/tmp/mount-readwrite.conf.done', 'VERBOSE': 'no', 'DELAYLOGIN': 'no', 'AT_QPA_PLATFORM': 'wayland-egl', 'QT_WAYLAND_HARDWARE_INTERGRATION': 'wayland-egl', 'SDL_MRCU_TIMER': '300000', 'APPID': 'org.xbmc.kodi', 'KODI_BIN_HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi', 'KODI_HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3/lib/python3', 'OS': 'Linux', 'XKB_CONFIG_ROOT': '/usr/share/X11/xkb', 'WAYLAND_DISPLAY': 'wayland-0', 'PYTHONHOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3', 'PYTHONPATH': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3/lib/python3', 'PYTHONIOENCODING': 'UTF-8', 'SSL_CERT_FILE': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/system/certs/cacert.pem', 'TZ': ':preferences/localtime', 'PYTHONOPTIMIZE': '1'}, 'close_fds': True}
+2024-04-26 14:43:57.255 T:6072  warning <general>: [plugin.video.elementum] elementumd: started process
+2024-04-26 14:43:57.258 T:6072  warning <general>: [plugin.video.elementum] /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum: /lib/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum)
+2024-04-26 14:43:57.259 T:6072  warning <general>: [plugin.video.elementum] System information: linux_armv7_softfp 
+2024-04-26 14:43:57.260 T:6072  warning <general>: [plugin.video.elementum] Kodi build version: 21.0-ALPHA1 (20.90.101) Git:20230410-43388ac-dirty
+2024-04-26 14:43:57.260 T:6072  warning <general>: [plugin.video.elementum] OS type: Linux
+2024-04-26 14:43:57.260 T:6072  warning <general>: [plugin.video.elementum] uname: uname_result(system='Linux', node='LGwebOSTV', release='4.4.3-208.drd4tv.3', version='#1 SMP PREEMPT Wed Jan 18 11:04:48 KST 2023', machine='armv7l')
+2024-04-26 14:43:57.260 T:6072  warning <general>: [plugin.video.elementum] Sleeping before next restart attempt
+2024-04-26 14:44:02.261 T:6072  warning <general>: [plugin.video.elementum] elementumd: starting elementumd
+2024-04-26 14:44:02.262 T:6048     info <general>: JSONRPC Server: New connection added
+2024-04-26 14:44:02.262 T:6048     info <general>: JSONRPC Server: Disconnection detected
+2024-04-26 14:44:02.262 T:6072  warning <general>: [plugin.video.elementum] Kodi's JSON-RPC service is available, starting up...
+2024-04-26 14:44:02.268 T:6072  warning <general>: [plugin.video.elementum] Binary detection. Version: v0.1.102, Source: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/addons/plugin.video.elementum/resources/bin/linux_armv7_softfp/elementum, Destination: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum
+2024-04-26 14:44:02.270 T:6072  warning <general>: [plugin.video.elementum] Deleting stale files set()
+2024-04-26 14:44:02.271 T:6072  warning <general>: [plugin.video.elementum] Binary detection: [ Source: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/addons/plugin.video.elementum/resources/bin/linux_armv7_softfp/elementum, Destination: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum ]
+2024-04-26 14:44:02.271 T:6072  warning <general>: [plugin.video.elementum] Binary dir: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp, item: /media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum 
+2024-04-26 14:44:02.326 T:6072  warning <general>: [plugin.video.elementum] elementumd: start args: ['/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp/elementum', '-remotePort=65221', '-localPort=65220'], kw: {'stdout': -1, 'stderr': -2, 'cwd': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp', 'env': {'OPENSSL_armcap': '0', 'GLIBC_BACKTRACE': 'YES', 'SULOGIN': 'no', 'UPSTART_INSTANCE': '', 'LOG_LEVEL': '0', 'GST_PLUGIN_PATH_1_0': '/usr/lib/gstreamer-1.0:/mnt/lg/res/lglib/gstreamer-1.0', 'XDG_DIR': '/tmp/xdg', 'QSG_PROGRAM_BINARY_STORE': '/var/cache/qsg-shader-cache', 'SDP_SYS_PATH': '/mnt/cache/sdp', 'QMLSCENE_DEVICE': 'customcontext', 'LOAD_DSYM': '1', 'GDB_ROOT': '', 'LD_LIBRARY_PATH': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/.kodi/userdata/addon_data/plugin.video.elementum/bin/linux_armv7_softfp:/mnt/bsppart/bsp/lib:/mnt/bsppart/bsp/usr/lib:/mnt/license/usr/lib:/usr/lib:/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib', 'QT_WAYLAND_XKB_RULE_NAMES': 'evdev:lgwebos:us::', 'USE_OSAMM': '0', 'HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi', 'FSCKFIX': 'yes', 'IS_SNAP_PROFILE': 'NO', 'IS_SNAP': 'YES', 'GST_REGISTRY_1_0': '/mnt/flash/data/gst_1_0_registry.arm.bin', 'QML2_IMPORT_PATH': '/usr/lib/qt5/qml', 'ROOTFS_READ_ONLY': 'yes', 'QT_WAYLAND_DISABLE_WINDOWDECORATION': '1', 'IS_NFS': 'NO', 'VOLATILE_ENABLE_CACHE': 'yes', 'UPSTART_JOB': 'sam', 'QT_COMPOSITOR_NEGATE_INVERTED_Y': '1', 'GST_PLUGIN_SCANNER': '/usr/bin/gst-plugin-scanner', 'LOAD_SYM': '2', 'STARFISH_SCREEN_HEIGHT': '1080', 'TMPTIME': '0', 'GIO_EXTRA_MODULES': '/usr/lib/gio/modules', 'OSAMEM_SIZE': '0x200000', 'TERM': 'linux', 'COMPONENTS_PATH': '/mnt/lg/res/lglib/openmax', 'PATH': '/mnt/bsppart/bsp/usr/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'XDG_RUNTIME_DIR': '/tmp/xdg', 'QTWEBKIT_PLUGIN_PATH': '/usr/lib/BrowserPlugins', 'LOG_CALLER': 'NO', 'CRASH_REPORT': 'YES', 'GST_PLUGIN_PATH': '/usr/lib/gstreamer-0.10', 'SDL_VIDEODRIVER': 'wayland', 'HOOK_SEGV': 'NO', 'GST_PLUGIN_SCANNER_1_0': '/usr/libexec/gstreamer-1.0/gst-plugin-scanner', 'SNAP_FLOCK': '/tmp/snapshot_flock', 'EDITMOTD': 'no', 'UPSTART_EVENTS': 'ls-hubd_public-ready lsm-ready', 'APPFRWK_MASK_PATH': '/mnt/lg/cmn_data/appfrwk_mask', 'QT_HARFBUZZ': 'new', 'QT_QPA_FONTDIR': '/usr/share/fonts', 'QT_IM_MODULE': 'wayland', 'ENABLE_ROOTFS_FSCK': 'no', 'PWD': '/', 'WEBOS_GL_DISABLE_THREADED_RENDERING': '1', 'QT_QPA_PLATFORM': 'wayland', 'QT_WAYLAND_HARDWARE_INTEGRATION': 'wayland-egl', 'LGAPP_DIR': '/mnt/lg/lgapp', 'WEBAPPFACTORY': 'netcast:hbbtv', 'HOOK_THR': 'NO', 'KDRV_DIR': '/mnt/lg/res/lglib/kdrv', 'GST_REGISTRY_UPDATE': 'no', 'GST_REGISTRY': '/mnt/flash/data/gst_registry.arm.bin', '0': '', 'DEBUG_STATUS': '5', 'STARFISH_SCREEN_WIDTH': '1920', 'ATTR_FORCE_SCHEDNORMAL': 'YES', 'DBGFRWK_SYSLOG': 'GLOBAL', 'QT_VER': 'qt5', 'RWMOUNT_FLAG': '/tmp/mount-readwrite.conf.done', 'VERBOSE': 'no', 'DELAYLOGIN': 'no', 'AT_QPA_PLATFORM': 'wayland-egl', 'QT_WAYLAND_HARDWARE_INTERGRATION': 'wayland-egl', 'SDL_MRCU_TIMER': '300000', 'APPID': 'org.xbmc.kodi', 'KODI_BIN_HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi', 'KODI_HOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3/lib/python3', 'OS': 'Linux', 'XKB_CONFIG_ROOT': '/usr/share/X11/xkb', 'WAYLAND_DISPLAY': 'wayland-0', 'PYTHONHOME': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3', 'PYTHONPATH': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/lib/python3/lib/python3', 'PYTHONIOENCODING': 'UTF-8', 'SSL_CERT_FILE': '/media/developer/apps/usr/palm/applications/org.xbmc.kodi/system/certs/cacert.pem', 'TZ': ':preferences/localtime', 'PYTHONOPTIMIZE': '1'}, 'close_fds': True}
+2024-04-26 14:44:02.331 T:6072  warning <general>: [plugin.video.elementum] elementumd: started process
+2024-04-26 14:44:02.339 T:6072  warning <general>: [plugin.video.elementum] System information: linux_armv7_softfp 
+2024-04-26 14:44:02.340 T:6072  warning <general>: [plugin.video.elementum] Kodi build version: 21.0-ALPHA1 (20.90.101) Git:20230410-43388ac-dirty
+2024-04-26 14:44:02.340 T:6072  warning <general>: [plugin.video.elementum] OS type: Linux
+2024-04-26 14:44:02.340 T:6072  warning <general>: [plugin.video.elementum] uname: uname_result(system='Linux', node='LGwebOSTV', release='4.4.3-208.drd4tv.3', version='#1 SMP PREEMPT Wed Jan 18 11:04:48 KST 2023', machine='armv7l')
+2024-04-26 14:44:02.341 T:6072  warning <general>: [plugin.video.elementum] Sleeping before next restart attempt
